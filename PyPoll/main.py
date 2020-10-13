@@ -11,8 +11,6 @@ csvpath = os.path.join("Resources","election_data.csv")
 votes_tot = 0
 cand_rec_vote = 0
 percent_vote = 0
-cand_vot_tot = 0
-#winner = []
 
 #Set empty dictionary
 candidates = {}
